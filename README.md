@@ -7,7 +7,7 @@ This repository provides a Python script for generating word clouds from a list 
 ## Features
 - **Predefined Color Themes:** Choose from various themes to style the word cloud.
 - **Customizable Font:** Change the font to support different languages or styles.
-- **Easy-to-Use:** Simply provide a list of slogans and an index for the color theme.
+- **Easy-to-Use:** Simply provide a list of Sentences/word.
 
 ## Installation
 1. Clone the repository:
