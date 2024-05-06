@@ -47,7 +47,7 @@ def generate_slogan_wordcloud_with_theme(slogans, output_path, theme_index):
         width=800,
         height=400,
         background_color='white',
-        font_path='functions/fonts/Nabi.ttf',
+        font_path='fonts/Nabi.ttf',
         prefer_horizontal=0.5,
         scale=2,
         random_state=None,
